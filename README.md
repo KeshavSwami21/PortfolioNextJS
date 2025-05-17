@@ -1,8 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Website
 
-## Getting Started
+This is a **personal portfolio website** built using [Next.js](https://nextjs.org/) and deployed at
+🌐 **[keshavportfoliojs.netlify.app](https://keshavportfoliojs.netlify.app/)**
 
-First, run the development server:
+It showcases my projects, skills, and professional background in a clean and responsive layout, using modern frontend technologies and UI components.
+
+![My Portfolio Screenshot](public/p1.png)
+
+---
+
+## 🚀 Tech Stack
+
+* **Framework**: [Next.js](https://nextjs.org/) – React framework for fast and SEO-friendly web apps.
+* **Styling & UI**: Built with [Acertinity](https://acertinity.com/) libraries for a polished and consistent user interface.
+* **Font Optimization**: Utilizes [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) for loading Google Fonts efficiently.
+* **Deployment**: Hosted on [Netlify](https://netlify.com).
+
+---
+
+## 🛠️ Getting Started (Development)
+
+To run the project locally:
 
 ```bash
 npm run dev
@@ -14,23 +32,23 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, open [http://localhost:3000](http://localhost:3000) in your browser to view the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can begin editing the homepage by modifying `app/page.tsx`. Changes reflect instantly during development.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 📚 Learn More
 
-To learn more about Next.js, take a look at the following resources:
+* [Next.js Documentation](https://nextjs.org/docs) – Learn more about Next.js features and APIs.
+* [Next.js Learn](https://nextjs.org/learn) – Interactive learning platform for mastering Next.js.
+* [Next.js GitHub](https://github.com/vercel/next.js) – Community, issues, and contributions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚀 Deployment
 
-## Deploy on Vercel
+This project is deployed on **Netlify** for fast global delivery.
+You can explore deployment options in the official [Next.js deployment guide](https://nextjs.org/docs/deployment).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
